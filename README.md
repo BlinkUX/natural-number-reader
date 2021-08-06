@@ -13,9 +13,13 @@ To learn more about the Natural Number Reader, its origins, inner workings and m
 Natural Numbers Reader is a Blink production. 
 
 Concept, algorithm, and Implementation: Quba Michalski
+
 Additional programming: Eric Gomez
+
 Visual design: Christen Dute
+
 Illustrations: Caryn Arredondo
+
 Voice talent: Stewart Maclennan
 
 Blink's Chief Innovation Officer: Kelly Franznick
