@@ -1,0 +1,13 @@
+/* Paths are relative to location of main style.scss file */
+@font-face {
+  font-family: 'apercu-mono-regular-pro';
+  src: url('../fonts/apercu-mono-regular-pro.woff') format('woff');
+}
+@font-face {
+  font-family: 'NeueHaasGrotDisp-35Lt';
+  src: url('../fonts/NeueHaasGrotDisp-35Thin-Web.woff') format('woff');
+}
+@font-face {
+  font-family: 'NeueHaasGrotDisp-75Bd';
+  src: url('../fonts/NeueHaasGrotDisp-75Bold-Web.woff') format('woff');
+}
